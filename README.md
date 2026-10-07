@@ -34,7 +34,7 @@ A good task manager should make it easier to get commitments out of your head an
 
 It works well for students managing assignments, freelancers managing client work, and professionals who need a simple place to capture the next action.
 
-<a href="https://todoist.com/" rel="nofollow">Visit Todoist</a>
+<a href="https://todoist.com/" >Visit Todoist</a>
 
 ## 2. Notion — keep notes, documents, and projects together
 
@@ -58,7 +58,7 @@ A task list tells you *what* needs to happen. A calendar helps answer *when* it 
 
 **Google Calendar** is useful for time blocking, meetings, study sessions, deadlines, recurring routines, and protected focus periods. One of the simplest upgrades to a chaotic workday is reserving time for important work before lower-value tasks consume the schedule.
 
-<a href="https://calendar.google.com/" rel="nofollow">Visit Google Calendar</a>
+<a href="https://calendar.google.com/" >Visit Google Calendar</a>
 
 ## 5. Typing Owl — improve the keyboard skill behind digital work
 
@@ -140,7 +140,7 @@ Writing appears in almost every digital workflow: email, documentation, proposal
 
 **Grammarly** can help review grammar, clarity, tone, and other writing issues. It is useful for anyone who writes frequently and wants an extra editing layer before sending or publishing something.
 
-<a href="https://www.grammarly.com/" rel="nofollow">Visit Grammarly</a>
+<a href="https://www.grammarly.com/">Visit Grammarly</a>
 
 ## 13. ChatGPT — speed up thinking-heavy tasks
 
@@ -148,7 +148,7 @@ AI can be useful for first drafts, brainstorming, summarization, explanations, p
 
 The productive workflow is not “let AI do everything.” Give the model a clear objective, relevant context, constraints, and the desired output format, then review important results yourself.
 
-<a href="https://chatgpt.com/" rel="nofollow">Visit ChatGPT</a>
+<a href="https://chatgpt.com/">Visit ChatGPT</a>
 
 ## 14. Raycast — reduce small desktop actions
 
